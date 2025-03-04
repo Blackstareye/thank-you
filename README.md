@@ -4,4 +4,4 @@ Thank you for your support
 
 you rock!
 
-![heart](heart.png)
+![heart](heart_r.png)
